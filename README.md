@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @AmitaiBiton a software engineering in Israel 
-- 👀 I’m interested in Computer Vision, Artificial intelligence, Deep Learning, Machine Learning. 
+- 👀 I’m interested in Image Processing , Artificial intelligence, Deep Learning, Machine Learning. 
 - 🌱 I’m currently learning  Deep Learning and Artificial intelligence.
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me by email at amitai05275@gmail.com
